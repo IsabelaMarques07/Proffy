@@ -22,3 +22,12 @@
 
 ### Filtro de professores
 <img src="https://github.com/IsabelaMarques07/nlw/blob/master/git_images/v1/screens/page_study_with_proffy.jpg?raw=true">
+
+## Desafios
+<p> Ao final da última aula do Next Level Week, foi passado aos participantes alguns desafios. Abaixo está a lista dos desafios.
+  
+### ✅ Página de sucesso
+<p> Adicionar uma página de confirmação ao cadastrar um novo professor
+  
+### 🔲 Encontrar e resolver bugs
+<p> Resolver o bug sugerido, encontrar outros e resolvê-los.

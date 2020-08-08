@@ -2,7 +2,7 @@
 ## Projeto construído acompanhando as aulas do Next Level Week #2 da Rocketseat. 🚀
 
 <br> 🚧 Projeto em fase de construção 🚧 </br>
-
+https://github.com/IsabelaMarques07/nlw/blob/master/git_images/v1/banner.jpg?raw=true
 ## Sobre
 <p>Por consequência da pandemia do Covid-19, a educação à distância acabou sendo extremamente necessária. Esse projeto tem o objetivo de conectar professores e alunos de uma forma simples e rápida. 
 

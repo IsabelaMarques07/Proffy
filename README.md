@@ -10,7 +10,7 @@
 
 ## Funcionalidades
 <p> O professores tem a possibilidade de se cadastrar, inserindo nome, matéria que irá ensinar, Whatsapp e horários disponíveis para dar aula.
-<p> Os alunos podem filtrar por matérias e horários que pretendem estudar e comunicar, através de uma mensagem, o professor escolhido.
+<p> Os alunos podem filtrar por matérias e horários que pretendem estudar e então comunicar, através de uma mensagem, o professor escolhido.
 
 
 ## Telas

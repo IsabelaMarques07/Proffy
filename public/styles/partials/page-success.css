@@ -1,0 +1,34 @@
+#page-success{
+    background: var(--color-primary);
+    background-image: url("/images/success-background.svg");
+}
+
+#page-success #container{
+    width: 100vw;
+    height: 100vh;
+    display: block;
+}
+
+#message-container{
+    margin: 3.3rem auto;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    margin-top: 18rem;
+
+}
+
+#saved{
+    color:white;
+}
+
+#message{
+    font-size: 1.6rem;
+    font-weight: 600;
+    color:var(--color-text-in-primary);
+}
+
+#message-container p{
+    margin-top: 1.6rem;
+    color: var(--color-text-in-primary);
+}

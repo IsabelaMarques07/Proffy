@@ -1,7 +1,7 @@
 # Proffy | Conexão entre professores e alunos
 ## Projeto construído acompanhando as aulas do Next Level Week #2 da Rocketseat. 🚀
 
-<br> 🚧 Projeto em fase de construção 🚧 </br>
+
 
 <img src="https://github.com/IsabelaMarques07/nlw/blob/master/git_images/v1/banner.jpg?raw=true">
 
@@ -39,3 +39,5 @@
   
 ### 🔲 Encontrar e resolver bugs
 <p> Resolver o bug sugerido, encontrar outros e resolvê-los.
+  
+## <br>🚧 Projeto em fase de construção 🚧 </br>

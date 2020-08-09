@@ -34,8 +34,9 @@
 
 ### Filtro de professores
 <img src="https://github.com/IsabelaMarques07/nlw/blob/master/git_images/v1/screens/page_study_with_proffy.jpg?raw=true">
-<img src="https://github.com/IsabelaMarques07/nlw/blob/master/git_images/v1/screens/Study.gif?raw=true">                                                                                                                        
-## Mobile
+<img src="https://github.com/IsabelaMarques07/nlw/blob/master/git_images/v1/screens/Study.gif?raw=true">                                                                         
+
+## 📱 Mobile
 
 ### Início
 <img src="https://github.com/IsabelaMarques07/nlw/blob/master/git_images/v1/responsiveness/Page_landing.gif?raw=true"> 

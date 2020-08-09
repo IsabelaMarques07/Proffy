@@ -26,10 +26,15 @@
 <img src="https://github.com/IsabelaMarques07/nlw/blob/master/git_images/v1/screens/page_landing.jpg?raw=true">
 
 ### Cadastro do professor
-<img src="https://github.com/IsabelaMarques07/nlw/blob/master/git_images/v1/screens/give_classes.jpg?raw=true" alt="drawing" style="heigth:50px;">
+<p align="center">
+<img src="https://github.com/IsabelaMarques07/nlw/blob/master/git_images/v1/screens/give_classes.jpg?raw=true" height="500">
+</p>
+<img src="https://github.com/IsabelaMarques07/nlw/blob/master/git_images/v1/screens/Give_Classes.gif?raw=true" height="550">
+
 
 ### Filtro de professores
 <img src="https://github.com/IsabelaMarques07/nlw/blob/master/git_images/v1/screens/page_study_with_proffy.jpg?raw=true">
+<img src="https://github.com/IsabelaMarques07/nlw/blob/master/git_images/v1/screens/Study.gif?raw=true">                                                                                                                        
 
 ## Desafios
 <p> Ao final da última aula do Next Level Week, foi passado aos participantes alguns desafios. Abaixo está a lista dos desafios.

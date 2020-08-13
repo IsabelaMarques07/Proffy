@@ -51,10 +51,11 @@
 <p> Ao final da última aula do Next Level Week, foi passado aos participantes alguns desafios. Abaixo está a lista dos desafios.
   
 ### ✅ Página de sucesso
-<p> Adicionar uma página de confirmação ao cadastrar um novo professor
+#### Adicionar uma página de confirmação ao cadastrar um novo professor
+
+<img src="https://github.com/IsabelaMarques07/Proffy/blob/master/git_images/v1/bugs/success-page.jpg?raw=true"> 
   
 ### ✅ Encontrar e resolver bugs
-
 #### Agora o Proffy só pode adicionar novos horários se todos os campos de hora forem preenchidos
 
 <img src="https://github.com/IsabelaMarques07/Proffy/blob/master/git_images/v1/bugs/give_classes_bug_resol.jpg?raw=true"> 

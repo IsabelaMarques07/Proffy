@@ -48,7 +48,7 @@
 <img src="https://github.com/IsabelaMarques07/nlw/blob/master/git_images/v1/responsiveness/Page_study.gif?raw=true"> 
 
 ## Desafios
-<p> Ao final da última aula do Next Level Week, foi passado aos participantes alguns desafios. Abaixo está a lista dos desafios.
+<p> Ao final da última aula do Next Level Week, foram passados alguns desafios aos participantes. Abaixo está a lista dos desafios.
   
 ### ✅ Página de sucesso
 #### Adicionar uma página de confirmação ao cadastrar um novo professor

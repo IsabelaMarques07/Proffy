@@ -8,16 +8,30 @@ document.querySelector("#add-time")
 function cloneField(){
     //Duplicar os campos
 
+    let emptyField = false
     const newFieldContainer = document.querySelector('.schedule-item').cloneNode(true)
 
     //Limpar os campos
     const fields = newFieldContainer.querySelectorAll('input')
+    const fieldsDoc = document.querySelectorAll('.fieldsDoc')
+    
 
-    fields.forEach(function(field) {
-        //pegar o field do momento
-        field.value = "";
-    })
+        fieldsDoc.forEach(function(fieldDoc) {
+            if(fieldDoc.value == ""){
+                emptyField = true 
+            }
+        })
 
+    if(emptyField == false){
+        fields.forEach(function(field) {
+            field.value = ""
+        })
+        
     //Colocar na página
     document.querySelector('#schedule-items').appendChild(newFieldContainer)
+    }else{
+        window.alert('Preencha os campos anteriores para adicionar um novo horário')
+    }
+
+
 }

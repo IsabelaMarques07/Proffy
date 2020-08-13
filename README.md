@@ -53,7 +53,8 @@
 ### ✅ Página de sucesso
 <p> Adicionar uma página de confirmação ao cadastrar um novo professor
   
-### 🔲 Encontrar e resolver bugs
-<p> Resolver o bug sugerido, encontrar outros e resolvê-los.
-  
-## <br>🚧 Projeto em fase de construção 🚧 </br>
+### ✅ Encontrar e resolver bugs
+
+#### Agora o Proffy só pode adicionar novos horários se todos os campos de hora forem preenchidos
+
+<img src="https://github.com/IsabelaMarques07/Proffy/blob/master/git_images/v1/bugs/give_classes_bug_resol.jpg?raw=true"> 
